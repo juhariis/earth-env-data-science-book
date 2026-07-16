@@ -9,3 +9,4 @@
 *.ipynb_checkpoints
 _build
 secrets/
+.conda-env/

@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.conda-env\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "python.condaPath": "C:\\Users\\juha_\\miniconda3\\Scripts\\conda.exe"
+}
